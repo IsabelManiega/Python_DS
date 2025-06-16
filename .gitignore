@@ -1,0 +1,5 @@
+env/
+venv38/
+__pycache__/
+Presentation.pptx
+.ipynb_checkpoints/
